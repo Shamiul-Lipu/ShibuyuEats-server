@@ -2,13 +2,14 @@
     {
         "id": 1,
         "name": "Satoshi Nakamura",
-        "photoUrl": "https://example.com/satoshi-nakamura-photo",
+        "description": "Chef Satoshi Nakamura is a master of the art of kaiseki, a traditional Japanese multi-course meal that showcases the very best of seasonal ingredients and culinary technique.",
+        "photoUrl": "https://i.ibb.co/VB1M0Lc/chef7.jpg",
         "experience": "15 years",
         "num_of_recipes": 104,
         "like": 8372,
         "recipes": [
             {
-                "name": "Soba Noodles with Miso Sauce",
+                "recipe_name": "Soba Noodles with Miso Sauce",
                 "ingredients": [
                     "8 ounces soba noodles",
                     "1/4 cup white miso paste",
@@ -21,7 +22,7 @@
                 "cooking_method": "1. Cook the soba noodles according to the package instructions. Drain and rinse under cold water.\n2. In a bowl, whisk together the white miso paste, mirin, sake, soy sauce, and sesame oil until smooth.\n3. Toss the cooked soba noodles with the miso sauce until well coated.\n4. Divide the noodles among bowls and sprinkle with sliced green onions."
             },
             {
-                "name": "Grilled Miso Salmon",
+                "recipe_name": "Grilled Miso Salmon",
                 "ingredients": [
                     "4 salmon fillets",
                     "1/4 cup white miso paste",
@@ -34,7 +35,7 @@
                 "cooking_method": "1. In a bowl, whisk together the white miso paste, mirin, sake, sugar, grated ginger, and minced garlic.\n2. Place the salmon fillets in a shallow dish and pour the miso marinade over them. Cover and refrigerate for at least 30 minutes.\n3. Preheat a grill or grill pan over medium-high heat.\n4. Remove the salmon fillets from the marinade, shaking off any excess, and grill for 3-4 minutes on each side, until cooked through.\n5. Serve the grilled miso salmon with steamed rice and vegetables."
             },
             {
-                "name": "Gyudon - Beef Bowl",
+                "recipe_name": "Gyudon - Beef Bowl",
                 "ingredients": [
                     "1 pound thinly sliced beef",
                     "1 onion, sliced thinly",
@@ -47,7 +48,7 @@
                 "cooking_method": "1. In a large skillet or wok, cook the thinly sliced beef over high heat until browned and cooked through. Remove from the skillet and set aside.\n2. In the same skillet, sauté the sliced onion until softened.\n3. Add the sake, mirin, soy sauce, and sugar to the skillet and bring to a boil.\n4. Add the cooked beef back to the skillet and simmer for a few minutes until the sauce thickens.\n5. Serve the gyudon over cooked rice."
             },
             {
-                "name": "Tempura Shrimp and Vegetables",
+                "recipe_name": "Tempura Shrimp and Vegetables",
                 "ingredients": [
                     "1 pound large shrimp, peeled and deveined",
                     "1 sweet potato, peeled and sliced thinly",
@@ -66,13 +67,14 @@
     {
         "id": 2,
         "name": "Yuki Tanaka",
-        "photoUrl": "https://example.com/yuki-tanaka-photo",
+        "description": "Chef Yuki Tanaka is a true culinary visionary, blending traditional Japanese cooking methods with cutting-edge techniques to create dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/fp1K9W5/chef1.jpg",
         "experience": "12 years",
         "num_of_recipes": 92,
         "like": 7241,
         "recipes": [
             {
-                "name": "Okonomiyaki - Japanese Pancake",
+                "recipe_name": "Okonomiyaki - Japanese Pancake",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 teaspoon baking powder",
@@ -91,7 +93,7 @@
                 "cooking_method": "1. In a large bowl, whisk together the flour, baking powder, salt, eggs, and water until smooth.\n2. Add the shredded cabbage, sliced green onions, tempura flakes, and cooked shrimp or pork to the batter and mix well.\n3. Heat a large skillet or griddle over medium heat and add a drizzle of vegetable oil.\n4. Pour a ladleful of the batter onto the skillet and shape it into a pancake.\n5. Cook for 4-5 minutes on each side until golden brown and cooked through.\n6. Spread mayonnaise and okonomiyaki sauce on top of the pancake and sprinkle with dried seaweed flakes and bonito flakes.\n7. Serve hot and enjoy!"
             },
             {
-                "name": "Tuna Tataki with Ponzu Sauce",
+                "recipe_name": "Tuna Tataki with Ponzu Sauce",
                 "ingredients": [
                     "8 ounces sushi-grade tuna",
                     "1 tablespoon vegetable oil",
@@ -106,7 +108,7 @@
                 "cooking_method": "1. Heat a skillet over high heat. Add the vegetable oil and heat until shimmering.\n2. Coat the tuna with the sesame seeds.\n3. Sear the tuna in the skillet for 15 seconds on each side, then remove from the skillet and let it rest.\n4. In a bowl, whisk together the ponzu sauce, soy sauce, mirin, rice vinegar, grated ginger, and red pepper flakes.\n5. Slice the tuna and serve it with the ponzu sauce."
             },
             {
-                "name": "Pork Belly Ramen",
+                "recipe_name": "Pork Belly Ramen",
                 "ingredients": [
                     "1 pound pork belly, sliced",
                     "2 tablespoons vegetable oil",
@@ -127,7 +129,7 @@
                 "cooking_method": "1. Preheat the oven to 400°F. Rub the pork belly with vegetable oil and place it on a baking sheet. Roast for 20 minutes, then flip and roast for another 20 minutes.\n2. In a large pot, heat the vegetable oil over medium heat. Add the onion, garlic, and grated ginger, and sauté until the onion is translucent.\n3. Add the chicken stock, soy sauce, mirin, sake, and brown sugar. Bring to a boil, then reduce the heat and let it simmer for 30 minutes.\n4. Cook the ramen noodles according to package instructions.\n5. Divide the noodles among 4 bowls. Top each bowl with sliced pork belly, a boiled egg half, a sheet of nori, sliced green onions, and bean sprouts. Pour the broth over the noodles and serve."
             },
             {
-                "name": "Matcha Green Tea Ice Cream",
+                "recipe_name": "Matcha Green Tea Ice Cream",
                 "ingredients": [
                     "1 cup whole milk",
                     "1 cup heavy cream",
@@ -139,7 +141,7 @@
                 "cooking_method": "1. In a medium saucepan, combine the whole milk, heavy cream, granulated sugar, and salt. Cook over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.\n2. In a medium bowl, whisk together the egg yolks and matcha green tea powder.\n3. Slowly pour the hot milk mixture into the egg yolk mixture, whisking constantly, until well combined.\n4. Return the mixture to the saucepan and cook over medium heat, stirring constantly, until thickened and coats the back of a spoon.\n5. Remove from heat and strain through a fine-mesh sieve into a bowl.\n6. Chill the mixture in the refrigerator for at least 2 hours.\n7. Freeze in an ice cream maker according to the manufacturer's instructions.\n8. Transfer the ice cream to a container and freeze until firm."
             },
             {
-                "name": "Tonkatsu (Japanese Pork Cutlet)",
+                "recipe_name": "Tonkatsu (Japanese Pork Cutlet)",
                 "ingredients": [
                     "4 boneless pork chops, about 1/2 inch thick",
                     "Salt and pepper, to taste",
@@ -156,13 +158,14 @@
     {
         "id": 3,
         "name": "Kazuki Ito",
-        "photoUrl": "https://example.com/kazuki-ito-photo",
+        "description": "Chef Kazuki Ito's cooking is a feast for the senses, with each dish telling a story and evoking a sense of place and time that is uniquely Japanese.",
+        "photoUrl": "https://i.ibb.co/kHkqRxb/chef6.jpg",
         "experience": "8 years",
         "num_of_recipes": 68,
         "like": 5367,
         "recipes": [
             {
-                "name": "Gyudon - Beef Bowl",
+                "recipe_name": "Gyudon - Beef Bowl",
                 "ingredients": [
                     "1 pound thinly sliced beef",
                     "1 onion, sliced thinly",
@@ -175,7 +178,7 @@
                 "cooking_method": "1. In a large skillet or wok, cook the thinly sliced beef over high heat until browned and cooked through. Remove from the skillet and set aside.\n2. In the same skillet, sauté the sliced onion until softened.\n3. Add the sake, mirin, soy sauce, and sugar to the skillet and bring to a boil.\n4. Add the cooked beef back to the skillet and simmer for a few minutes until the sauce thickens.\n5. Serve the gyudon over cooked rice."
             },
             {
-                "name": "Chicken Teriyaki",
+                "recipe_name": "Chicken Teriyaki",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup soy sauce",
@@ -190,7 +193,7 @@
                 "cooking_method": "1. In a large bowl, whisk together the soy sauce, mirin, sake, honey, ginger, and garlic.\n2. Add the chicken to the bowl and toss to coat evenly.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the chicken and cook for 6-7 minutes per side, or until cooked through and browned.\n4. Remove the chicken from the skillet and let it rest for a few minutes.\n5. Slice the chicken and garnish with sesame seeds and sliced green onions."
             },
             {
-                "name": "Miso Glazed Eggplant",
+                "recipe_name": "Miso Glazed Eggplant",
                 "ingredients": [
                     "2 large eggplants, sliced into rounds",
                     "1/4 cup white miso paste",
@@ -205,7 +208,7 @@
                 "cooking_method": "1. Preheat the oven to 425°F.\n2. In a bowl, whisk together the miso paste, mirin, sake, soy sauce, vegetable oil, and honey.\n3. Brush the eggplant rounds with the miso mixture and place them on a baking sheet.\n4. Sprinkle the sesame seeds over the eggplant rounds.\n5. Bake for 20-25 minutes, or until the eggplant is tender and the glaze is caramelized.\n6. Garnish with sliced green onions before serving."
             },
             {
-                "name": "Tonkatsu - Breaded Pork Cutlets",
+                "recipe_name": "Tonkatsu - Breaded Pork Cutlets",
                 "ingredients": [
                     "4 pork loin cutlets, boneless",
                     "1/2 cup flour",
@@ -219,7 +222,7 @@
                 "cooking_method": "1. Place flour, beaten eggs, and panko in three separate shallow dishes.\n2. Season the pork cutlets with salt and pepper.\n3. Dredge each cutlet in the flour, shaking off excess, then coat in egg and finally in panko, pressing gently to adhere.\n4. Heat oil in a large skillet over medium-high heat.\n5. Fry the cutlets until golden brown, about 3-4 minutes per side, flipping once.\n6. Drain on paper towels.\n7. Serve the tonkatsu with tonkatsu sauce and a side of rice."
             },
             {
-                "name": "Okonomiyaki - Japanese Pancake",
+                "recipe_name": "Okonomiyaki - Japanese Pancake",
                 "ingredients": [
                     "2 cups all-purpose flour",
                     "1 teaspoon baking powder",
@@ -242,13 +245,14 @@
     {
         "id": 4,
         "name": "Takashi Yamamoto",
-        "photoUrl": "https://example.com/takashi-yamamoto-photo",
+        "description": "Chef Takashi Yamamoto is a rising star in the world of Japanese cuisine, with a fresh perspective and a bold approach to flavor that sets her apart from the rest.",
+        "photoUrl": "https://i.ibb.co/hdykwGD/chef4.jpg",
         "experience": "20 years",
         "num_of_recipes": 147,
         "like": 11243,
         "recipes": [
             {
-                "name": "Okonomiyaki - Savory Pancake",
+                "recipe_name": "Okonomiyaki - Savory Pancake",
                 "ingredients": [
                     "1/2 head cabbage, finely chopped",
                     "2 cups all-purpose flour",
@@ -265,7 +269,7 @@
                 "cooking_method": "1. In a large bowl, mix together the chopped cabbage, flour, dashi stock, eggs, and green onions until well combined.\n2. Heat a large non-stick skillet or griddle over medium-high heat and add a little oil.\n3. Pour the batter onto the skillet to form a pancake, about 1 inch thick.\n4. Sprinkle tenkasu on top of the pancake and press down gently.\n5. Cook for 5-6 minutes until the bottom is golden brown and crispy.\n6. Flip the pancake over and cook for another 5-6 minutes until the other side is also golden brown and crispy.\n7. Drizzle okonomiyaki sauce and mayonnaise over the pancake and sprinkle with bonito flakes and aonori.\n8. Serve hot and enjoy!"
             },
             {
-                "name": "Grilled Miso Eggplant",
+                "recipe_name": "Grilled Miso Eggplant",
                 "ingredients": [
                     "2 medium eggplants",
                     "2 tablespoons white miso paste",
@@ -280,7 +284,7 @@
                 "cooking_method": "1. Preheat a grill or grill pan over medium-high heat.\n2. Cut the eggplants in half lengthwise, and score the flesh with a knife in a criss-cross pattern.\n3. In a small bowl, whisk together the miso paste, mirin, sake, soy sauce, honey, garlic, and ginger.\n4. Brush the miso mixture over the cut sides of the eggplants.\n5. Grill the eggplants, cut-side down, for 5-6 minutes, or until charred and tender.\n6. Transfer the eggplants to a serving plate and sprinkle with sliced green onions."
             },
             {
-                "name": "Tonkatsu with Japanese Curry Sauce",
+                "recipe_name": "Tonkatsu with Japanese Curry Sauce",
                 "ingredients": [
                     "4 pork loin cutlets, pounded to 1/4 inch thickness",
                     "1/2 cup all-purpose flour",
@@ -300,7 +304,7 @@
                 "cooking_method": "1. Season the pork cutlets with salt and pepper. Dredge each cutlet in flour, then dip in the beaten eggs, and coat with panko breadcrumbs.\n2. Heat the vegetable oil in a large skillet over medium-high heat. Add the breaded cutlets and cook until golden brown, about 3-4 minutes per side. Transfer to a paper towel-lined plate to drain.\n3. In a separate saucepan, melt the butter over medium heat. Add the diced onion and garlic and sauté until softened, about 5 minutes.\n4. Add the curry powder and flour and stir to combine. Cook for 1-2 minutes until the mixture is fragrant.\n5. Slowly pour in the chicken broth, whisking constantly to prevent lumps from forming. Add the soy sauce and honey and stir to combine.\n6. Simmer the sauce for 10-15 minutes until it has thickened. Season with salt and pepper to taste.\n7. Serve the tonkatsu with the Japanese curry sauce on top and steamed rice on the side."
             },
             {
-                "name": "Udon Noodle Soup with Shrimp and Vegetables",
+                "recipe_name": "Udon Noodle Soup with Shrimp and Vegetables",
                 "ingredients": [
                     "8 ounces udon noodles",
                     "2 tablespoons vegetable oil",
@@ -324,13 +328,14 @@
     {
         "id": 5,
         "name": "Haruka Nakamura",
-        "photoUrl": "https://example.com/haruka-nakamura-photo",
+        "description": "Chef Haruka Nakamura's cooking is a true reflection of the Japanese spirit, embodying the traditions of the past while pushing the boundaries of what is possible in the present.",
+        "photoUrl": "https://i.ibb.co/fvzJGjg/chef5.jpg",
         "experience": "13 years",
         "num_of_recipes": 85,
         "like": 6724,
         "recipes": [
             {
-                "name": "Chicken Teriyaki",
+                "recipe_name": "Chicken Teriyaki",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup soy sauce",
@@ -345,7 +350,7 @@
                 "cooking_method": "1. In a large bowl, whisk together the soy sauce, mirin, sake, honey, ginger, and garlic.\n2. Add the chicken to the bowl and toss to coat evenly.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the chicken and cook for 6-7 minutes per side, or until cooked through and browned.\n4. Remove the chicken from the skillet and let it rest for a few minutes.\n5. Slice the chicken and garnish with sesame seeds and sliced green onions."
             },
             {
-                "name": "Miso Glazed Eggplant",
+                "recipe_name": "Miso Glazed Eggplant",
                 "ingredients": [
                     "2 large eggplants, sliced into rounds",
                     "1/4 cup white miso paste",
@@ -360,7 +365,7 @@
                 "cooking_method": "1. Preheat the oven to 425°F.\n2. In a bowl, whisk together the miso paste, mirin, sake, soy sauce, vegetable oil, and honey.\n3. Brush the eggplant rounds with the miso mixture and place them on a baking sheet.\n4. Sprinkle the sesame seeds over the eggplant rounds.\n5. Bake for 20-25 minutes, or until the eggplant is tender and the glaze is caramelized.\n6. Garnish with sliced green onions before serving."
             },
             {
-                "name": "Shrimp Tempura",
+                "recipe_name": "Shrimp Tempura",
                 "ingredients": [
                     "1 lb. medium-sized shrimp, peeled and deveined",
                     "1/2 cup all-purpose flour",
@@ -378,13 +383,14 @@
     {
         "id": 6,
         "name": "Ryoichi Sato",
-        "photoUrl": "https://example.com/ryoichi-sato-photo",
+        "description": "Chef Ryoichi Sato is a true master of Japanese cuisine, with a passion for traditional dishes and an innovative approach to modern flavors.",
+        "photoUrl": "https://i.ibb.co/GpXHvh6/chef3.jpg",
         "experience": "11 years",
         "num_of_recipes": 73,
         "like": 5843,
         "recipes": [
             {
-                "name": "Gyudon - Beef Bowl",
+                "recipe_name": "Gyudon - Beef Bowl",
                 "ingredients": [
                     "1 pound thinly sliced beef",
                     "1 onion, sliced thinly",
@@ -397,7 +403,7 @@
                 "cooking_method": "1. In a large skillet or wok, cook the thinly sliced beef over high heat until browned and cooked through. Remove from the skillet and set aside.\n2. In the same skillet, sauté the sliced onion until softened.\n3. Add the sake, mirin, soy sauce, and sugar to the skillet and bring to a boil.\n4. Add the cooked beef back to the skillet and simmer for a few minutes until the sauce thickens.\n5. Serve the gyudon over cooked rice."
             },
             {
-                "name": "Chicken Teriyaki",
+                "recipe_name": "Chicken Teriyaki",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup soy sauce",
@@ -412,7 +418,7 @@
                 "cooking_method": "1. In a large bowl, whisk together the soy sauce, mirin, sake, honey, ginger, and garlic.\n2. Add the chicken to the bowl and toss to coat evenly.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the chicken and cook for 6-7 minutes per side, or until cooked through and browned.\n4. Remove the chicken from the skillet and let it rest for a few minutes.\n5. Slice the chicken and garnish with sesame seeds and sliced green onions."
             },
             {
-                "name": "Miso Glazed Eggplant",
+                "recipe_name": "Miso Glazed Eggplant",
                 "ingredients": [
                     "2 large eggplants, sliced into rounds",
                     "1/4 cup white miso paste",
@@ -431,13 +437,14 @@
     {
         "id": 7,
         "name": "Airi Suzuki",
-        "photoUrl": "https://example.com/airi-suzuki-photo",
+        "description": "Chef Airi Suzuki is a culinary artist, known for her impeccable attention to detail and the way she transforms simple ingredients into complex, flavorful dishes.",
+        "photoUrl": "https://i.ibb.co/x2ptqRd/chef8.jpg",
         "experience": "9 years",
         "num_of_recipes": 62,
         "like": 4852,
         "recipes": [
             {
-                "name": "Chicken Katsu Curry",
+                "recipe_name": "Chicken Katsu Curry",
                 "ingredients": [
                     "4 boneless chicken breasts, pounded thin",
                     "1 cup panko breadcrumbs",
@@ -456,7 +463,7 @@
                 "cooking_method": "1. Season the chicken breasts with salt and pepper.\n2. Dredge the chicken in flour, shaking off any excess.\n3. Dip the chicken into the beaten eggs, then coat with panko breadcrumbs.\n4. Heat the vegetable oil in a large skillet over medium-high heat.\n5. Add the chicken and cook until golden brown on both sides, about 3-4 minutes per side.\n6. Remove the chicken from the skillet and set aside.\n7. Add the onion and garlic to the skillet and sauté until softened.\n8. Stir in the curry powder and flour and cook for 1 minute.\n9. Add the chicken broth, carrot, and potato, and bring to a simmer.\n10. Reduce the heat to low and simmer for 20-25 minutes, until the vegetables are tender and the sauce has thickened.\n11. Slice the chicken into strips and serve over rice with the curry sauce."
             },
             {
-                "name": "Karaage Fried Chicken",
+                "recipe_name": "Karaage Fried Chicken",
                 "ingredients": [
                     "1 pound boneless chicken thighs",
                     "1/4 cup soy sauce",
@@ -470,7 +477,7 @@
                 "cooking_method": "1. Cut the chicken thighs into bite-sized pieces.\n2. In a bowl, mix together the soy sauce, sake, mirin, grated ginger, and grated garlic. Add the chicken pieces to the bowl and marinate for at least 30 minutes.\n3. In a shallow dish, add the potato starch.\n4. Heat the vegetable oil in a deep fryer or large pot to 350°F.\n5. Remove the chicken from the marinade and coat in the potato starch.\n6. Fry the chicken in batches for about 5 minutes, or until golden brown and crispy.\n7. Drain on a wire rack or paper towels and serve hot."
             },
             {
-                "name": "Chirashi Sushi Bowl",
+                "recipe_name": "Chirashi Sushi Bowl",
                 "ingredients": [
                     "2 cups sushi rice",
                     "2 cups water",
@@ -494,13 +501,14 @@
     {
         "id": 8,
         "name": "Miyu Nakamura",
-        "photoUrl": "https://example.com/miyu-nakamura-photo",
+        "description": "Chef Miyu Nakamura is a genius in the kitchen, with an instinctive understanding of how to balance flavors and textures to create unforgettable culinary experiences.",
+        "photoUrl": "https://i.ibb.co/61JK6Nd/chef2.jpg",
         "experience": "7 years",
         "num_of_recipes": 50,
         "like": 3764,
         "recipes": [
             {
-                "name": "Chicken Teriyaki",
+                "recipe_name": "Chicken Teriyaki",
                 "ingredients": [
                     "4 boneless, skinless chicken breasts",
                     "1/2 cup soy sauce",
@@ -515,7 +523,7 @@
                 "cooking_method": "1. In a large bowl, whisk together the soy sauce, mirin, sake, honey, ginger, and garlic.\n2. Add the chicken to the bowl and toss to coat evenly.\n3. Heat the vegetable oil in a large skillet over medium-high heat. Add the chicken and cook for 6-7 minutes per side, or until cooked through and browned.\n4. Remove the chicken from the skillet and let it rest for a few minutes.\n5. Slice the chicken and garnish with sesame seeds and sliced green onions."
             },
             {
-                "name": "Miso Glazed Eggplant",
+                "recipe_name": "Miso Glazed Eggplant",
                 "ingredients": [
                     "2 large eggplants, sliced into rounds",
                     "1/4 cup white miso paste",
@@ -530,7 +538,7 @@
                 "cooking_method": "1. Preheat the oven to 425°F.\n2. In a bowl, whisk together the miso paste, mirin, sake, soy sauce, vegetable oil, and honey.\n3. Brush the eggplant rounds with the miso mixture and place them on a baking sheet.\n4. Sprinkle the sesame seeds over the eggplant rounds.\n5. Bake for 20-25 minutes, or until the eggplant is tender and the glaze is caramelized.\n6. Garnish with sliced green onions before serving."
             },
             {
-                "name": "Shrimp Tempura",
+                "recipe_name": "Shrimp Tempura",
                 "ingredients": [
                     "1 lb. medium-sized shrimp, peeled and deveined",
                     "1/2 cup all-purpose flour",
