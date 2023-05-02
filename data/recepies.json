@@ -1,0 +1,41 @@
+[
+    {
+        "_id": "0122222",
+        "name": "Hiroshi",
+        "chefs_id": 1,
+        "recipe_neme": "Yakitori - Skewered Chicken",
+        "ingredients": [
+            "500g chicken (breast, thighs, or both",
+            "1/4 cup soy sauce",
+            "1/4 cup sake",
+            "1/4 cup mirin",
+            "2 tablespoons sugar",
+            "2 green onions, sliced thinly"
+        ],
+        "cooking_method": [
+            "Cut the chicken into bite-sized pieces and thread onto skewers.",
+            "In a saucepan, mix together the soy sauce, sake, mirin, and sugar, and heat over medium heat until the sugar has dissolved.",
+            "Preheat a grill or grill pan over medium-high heat.",
+            "Brush the chicken skewers with the sauce and grill for about 3-4 minutes on each side, basting occasionally with the sauce, until the chicken is cooked through.",
+            "Serve the chicken skewers sprinkled with sliced green onions."
+        ]
+    },
+    {
+        "_id": "0122222",
+        "name": "Hiroshi",
+        "chefs_id": 1,
+        "recipe_name": "df"
+    },
+    {
+        "_id": "0122222",
+        "name": "Hiroshi",
+        "chefs_id": 1,
+        "recipe_name": "df"
+    },
+    {
+        "_id": "0122222",
+        "name": "Hiroshi",
+        "chefs_id": 1,
+        "recipe_name": "df"
+    }
+]
