@@ -5,12 +5,17 @@ const port = process.env.PORT || 5000;
 
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recepies.json')
+const reviews = require('./data/review.json')
 
 app.use(cors());
 
 app.get('/', (req, res) => {
     res.send('ShibuyuEats server is running')
 });
+
+app.get('/reviews', (req, res) => {
+    res.send(reviews);
+})
 
 app.get('/chefs', (req, res) => {
     res.send(chefs);

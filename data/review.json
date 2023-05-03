@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "review": "Recipes are delicious and easy to make. Highly recommend!",
+        "name": "Jane Smith",
+        "photoUrl": "https://i.ibb.co/YWnHwfh/p4.jpg"
+    },
+    {
+        "id": 2,
+        "review": "Love the variety of international recipes. So much to choose from!",
+        "name": "John Lee",
+        "photoUrl": "https://i.ibb.co/8jY1HQB/p3.webp"
+    },
+    {
+        "id": 3,
+        "review": "Step-by-step instructions are so helpful. Thanks for making cooking easy!",
+        "name": "Amy Chen",
+        "photoUrl": "https://i.ibb.co/k2X96kj/p5.jpg"
+    },
+    {
+        "id": 4,
+        "review": "Great customer service. They responded quickly and helped me with my question.",
+        "name": "Carlos Rodriguez",
+        "photoUrl": "https://i.ibb.co/H7P8pyy/p8.jpg"
+    },
+    {
+        "id": 5,
+        "review": "Vegan recipes are amazing! Even my meat-eating friends love them.",
+        "name": "Sophie Nguyen",
+        "photoUrl": "https://i.ibb.co/0XgfcWW/p6.jpg"
+    },
+    {
+        "id": 6,
+        "review": "The website is user-friendly and easy to navigate. Keep up the good work!",
+        "name": "David Kim",
+        "photoUrl": "https://i.ibb.co/wJdzbjz/p2.jpg"
+    },
+    {
+        "id": 7,
+        "review": "Love the meal planning feature. It's a lifesaver for busy weeknights.",
+        "name": "Karen Patel",
+        "photoUrl": "https://i.ibb.co/TMTDxsX/p1.jpg"
+    },
+    {
+        "id": 8,
+        "review": "The recipes are top-notch and always turn out delicious. Thanks for making me look like a pro!",
+        "name": "Brown",
+        "photoUrl": "https://i.ibb.co/DwQQ1tM/p7.jpg"
+    }
+]
